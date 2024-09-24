@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "afecc4c70e918572",
+    "id": "90f44ad96d480ed1",
     "type": "split",
     "children": [
       {
-        "id": "f5cff59d49ea75a5",
+        "id": "d6543a3ba1414de5",
         "type": "tabs",
         "children": [
           {
-            "id": "30343cd6e1115f4c",
+            "id": "2f29b43a2022fe81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Гибкие метадологии проектирования.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "168d03ab4fd3e0ee",
+    "id": "1434e1e74a5de23f",
     "type": "split",
     "children": [
       {
-        "id": "1d2b13548471ed8d",
+        "id": "24a91a4750431667",
         "type": "tabs",
         "children": [
           {
-            "id": "99d35ce7e9763e27",
+            "id": "f88c0a4c631e1ef9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "29411d44af806509",
+            "id": "46623f0bd8d4b4e1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,34 +58,34 @@
             }
           },
           {
-            "id": "b49d00749915ef87",
+            "id": "3c66cbbc11f7fa86",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "47a6d0a8a3fe4998",
+    "id": "903e62b3219a797d",
     "type": "split",
     "children": [
       {
-        "id": "8d518ed3ce6ea31e",
+        "id": "c1f2f1d73ffa1063",
         "type": "tabs",
         "children": [
           {
-            "id": "c45bf1997a44a0e1",
+            "id": "80698ec8899e1a6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Гибкие метадологии проектирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +97,19 @@
             }
           },
           {
-            "id": "49dbf67c9f4a89bc",
+            "id": "052f9017d90d878d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Гибкие метадологии проектирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d8e77ccfb0ae83bc",
+            "id": "07fea004aa054edd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +120,13 @@
             }
           },
           {
-            "id": "d73f592b85a65868",
+            "id": "dd57e560c3789114",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Гибкие метадологии проектирования.md"
+              }
             }
           }
         ]
@@ -139,8 +146,8 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "30343cd6e1115f4c",
+  "active": "2f29b43a2022fe81",
   "lastOpenFiles": [
-    "Добро пожаловать.md"
+    "Гибкие метадологии проектирования.md"
   ]
 }
