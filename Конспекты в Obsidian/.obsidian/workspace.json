@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "d349e50871251ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5656e8628491b2cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5370056b52bf4a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общестознание/человек как результат биологической и социокультурной эволюции..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "069a7bfcf937b936",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "330568a99b5e85b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5570c8524cb12d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e91f4f95a65a8ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb677fd9b9cd0055",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47a926fbac3f3e54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "758938d26f047c0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a5382c1c1910b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdecab43f319779f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Общестознание/человек как результат биологической и социокультурной эволюции..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ad47d43d957832e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Общестознание/человек как результат биологической и социокультурной эволюции..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f86e713f4890f375",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f10dcac1f8b0d205",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Общестознание/человек как результат биологической и социокультурной эволюции..md"
+              }
+            }
+          },
+          {
+            "id": "6c5ccbd3af0af369",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "graph:Граф": false
+    }
+  },
+  "active": "5370056b52bf4a88",
+  "lastOpenFiles": [
+    "passcode.pub",
+    "passcode",
+    "xuina.pub",
+    "xuina",
+    "Литература/Герои нашего времени.md",
+    "Общестознание/человек как результат биологической и социокультурной эволюции..md",
+    "Общестознание",
+    "Питон/Основы языка/Цикл forr.md",
+    "Pasted image 20240920114437.png",
+    "Информатика/Шенноновская энтропия..md",
+    "Информатика/Люди.md",
+    "Информатика/Колмогоровская сложность.md",
+    "ВВЕДЕНИЕ В Я ЗЫК ПРОГРАМИРОВАНИЯ ПАЙТОН/Объяснительная на имя Данила Евгеньевича!.md",
+    "Введение в специальность/Гибкие методологии проектирования.md",
+    "Без названия/ИТ-профессии.md",
+    "17.09.202/Без названия.md",
+    "Основы информационных технологий/устройства компьютера/Видеокарта.md",
+    "Литература",
+    "Основы информационных технологий/устройства компьютера/Базовое устройство пк.md",
+    "Основы информационных технологий/устройства компьютера/Оперативная память.md",
+    "Pasted image 20240919130109.png",
+    "Основы информационных технологий/устройства компьютера/северный и южный мост.md",
+    "Pasted image 20240919115832.png",
+    "Основы информационных технологий/устройства компьютера/Шина расширения.md",
+    "Pasted image 20240919115516.png",
+    "Основы информационных технологий/устройства компьютера/Процессор (CPU).md",
+    "Pasted image 20240919115256.png",
+    "Pasted image 20240919110425.png",
+    "Основы информационных технологий/устройства компьютера",
+    "Основы информационных технологий",
+    "ВВЕДЕНИЕ В Я ЗЫК ПРОГРАМИРОВАНИЯ ПАЙТОН",
+    "Pasted image 20240918113113.png",
+    "Pasted image 20240918112946.png",
+    "Информатика/Без названия",
+    "Информатика",
+    "Pasted image 20240917120534.png",
+    "Pasted image 20240917120454.png"
+  ]
+}
