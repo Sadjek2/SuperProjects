@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"3251be7422c1d600","type":"group","x":-100,"y":-400,"width":290,"height":560,"label":"Основные версии приложения"},
+		{"id":"72712ca0e8250f43","type":"group","x":-600,"y":-350,"width":290,"height":460,"label":"Версии в разработке"},
+		{"id":"de55239bdde99e5b","type":"group","x":-1120,"y":-550,"width":290,"height":300,"label":"Его версии"},
+		{"id":"3b9750b039646386","type":"group","x":-1120,"y":-40,"width":290,"height":300,"label":"Его версии"},
+		{"id":"23e8bb7513c56e5b","type":"text","text":"inital commit","x":-80,"y":-340,"width":250,"height":60},
+		{"id":"745233e515b3df53","type":"text","text":"v 0.1","x":-80,"y":-220,"width":250,"height":90},
+		{"id":"35b4195306eaefa8","type":"text","text":"v 0.2","x":-80,"y":60,"width":250,"height":60},
+		{"id":"1ddaa9d060aad2fd","type":"text","text":"Ветка MAIN","x":-80,"y":-560,"width":250,"height":60,"color":"5"},
+		{"id":"496ef7e87cb83bef","type":"text","text":"v 0.1","x":-1100,"y":-20,"width":250,"height":60},
+		{"id":"3aa6b4cda2c2672d","type":"text","text":"Внёс изм.","x":-1100,"y":80,"width":250,"height":60},
+		{"id":"1f1fa599d4cb13b9","type":"text","text":"Слава Моско","x":-1125,"y":-180,"width":300,"height":70,"color":"5"},
+		{"id":"b26cc36c5c2c6c9f","type":"text","text":"Иван Сидоров","x":-1125,"y":-690,"width":300,"height":70,"color":"5"},
+		{"id":"c311b242ad4e6166","type":"text","text":"initial commit","x":-1100,"y":-530,"width":250,"height":60},
+		{"id":"2d299b6c827bcb9b","type":"text","text":"Внёс изм.","x":-1100,"y":-430,"width":250,"height":60},
+		{"id":"b6d82e67f296a68d","type":"text","text":"initial commit","x":-580,"y":-330,"width":250,"height":60},
+		{"id":"dced3c15bc3a9855","type":"text","text":"Внесли изм.","x":-580,"y":-240,"width":250,"height":60},
+		{"id":"de163d45e298e30c","type":"text","text":"v 0.1","x":-580,"y":-116,"width":250,"height":60},
+		{"id":"c3ca67d69dedb519","type":"text","text":"Внесли изм.","x":-580,"y":10,"width":250,"height":60},
+		{"id":"8ee09b76643d7da4","type":"text","text":"Develop","x":-580,"y":-490,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"7678543be4369bf5","fromNode":"23e8bb7513c56e5b","fromSide":"left","toNode":"b6d82e67f296a68d","toSide":"right"},
+		{"id":"274a0e07a4bab2c4","fromNode":"dced3c15bc3a9855","fromSide":"right","toNode":"745233e515b3df53","toSide":"left"},
+		{"id":"bd9412885fa33bdc","fromNode":"c3ca67d69dedb519","fromSide":"right","toNode":"35b4195306eaefa8","toSide":"left"},
+		{"id":"7cd822a9c53ec71e","fromNode":"b6d82e67f296a68d","fromSide":"left","toNode":"c311b242ad4e6166","toSide":"right"},
+		{"id":"a97cbc4ae7291370","fromNode":"2d299b6c827bcb9b","fromSide":"right","toNode":"dced3c15bc3a9855","toSide":"left"},
+		{"id":"730c884041b64d34","fromNode":"745233e515b3df53","fromSide":"left","toNode":"de163d45e298e30c","toSide":"right"},
+		{"id":"6bc94e4cfdbdf37f","fromNode":"496ef7e87cb83bef","fromSide":"bottom","toNode":"3aa6b4cda2c2672d","toSide":"top"},
+		{"id":"4ada00b600e25824","fromNode":"de163d45e298e30c","fromSide":"left","toNode":"496ef7e87cb83bef","toSide":"right"},
+		{"id":"affc70bea0c8b495","fromNode":"3aa6b4cda2c2672d","fromSide":"right","toNode":"c3ca67d69dedb519","toSide":"left"},
+		{"id":"728a97b4264b686e","fromNode":"c311b242ad4e6166","fromSide":"bottom","toNode":"2d299b6c827bcb9b","toSide":"top"}
+	]
+}
