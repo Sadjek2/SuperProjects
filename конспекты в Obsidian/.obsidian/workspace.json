@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "1895e49bb051059c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6813daf0517914a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154aa6038dcfb357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия/ИТ-профессии.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86f28f43a2132704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Основы языка/Цикл for.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f78c81daa7cd66a0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240917120620.png"
+              }
+            }
+          },
+          {
+            "id": "2c025291e42cf53e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240917120620.png"
+              }
+            }
+          },
+          {
+            "id": "ac83492a6bb6f414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "основы информационных технологий/базовая схема пк.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75c332193160ab54",
+    "type": "split",
+    "children": [
+      {
+        "id": "83cbd87cf65c2066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6edb22807f8d03b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb9f115c88c3234e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c4599a11182211e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2c1ee4e4cb777f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1d850ec7f334b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd60a4776cf1185",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "основы информационных технологий/базовая схема пк.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec09daeccb16fb55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "основы информационных технологий/базовая схема пк.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9016f9a5c57a340b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cd5bec59c0d4f04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "основы информационных технологий/базовая схема пк.md"
+              }
+            }
+          },
+          {
+            "id": "7df1184f0150642e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "ac83492a6bb6f414",
+  "lastOpenFiles": [
+    "основы информационных технологий/процессор (cpu).md",
+    "основы информационных технологий/базовая схема пк.md",
+    "Без названия/ИТ-профессии.md",
+    "УВАЖАЕМОМУ ДАНИЛУ ЕВГЕНЬЕВИЧУ.md",
+    "Без названия 3",
+    "Pasted image 20240917120620.png",
+    "Pasted image 20240918112921.png",
+    "Без названия 1/KANBAN.md",
+    "основы информационных технологий",
+    "п",
+    "Люди/Клод Э́лвуд Ше́ннон.md",
+    "пОСВЕЩЕНО СИЗО ПИДОРАСОВИЧУ.md",
+    "Pasted image 20240918113919.png",
+    "Люди/Колмогоров, Андрей Николаевич.md",
+    "Люди/Без названия",
+    "Люди/Колмогоров, Андрей Николаевич 1.md",
+    "Pasted image 20240918112930.png",
+    "Люди",
+    "Колмогорская сложность 1.md",
+    "Без названия 2",
+    "люди 1.md",
+    "Без названия 2.md",
+    "Колмогорская сложность.md",
+    "Без названия.md",
+    "Без названия 1",
+    "Python/Основы языка/Цикл for.md",
+    "Python/Основы языка",
+    "Python/Осно",
+    "Python"
+  ]
+}
