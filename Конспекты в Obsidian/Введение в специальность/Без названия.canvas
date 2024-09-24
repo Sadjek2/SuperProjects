@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"ae63e2abfe8c1c90","type":"text","text":"Ветка MAIN","x":-125,"y":-30,"width":250,"height":60,"color":"5"},
+		{"id":"d1972cb62e9e8db1","type":"text","text":"","x":-125,"y":80,"width":250,"height":320},
+		{"id":"691f41d9e67a1dd9","type":"text","text":"v.0.1","x":-100,"y":210,"width":200,"height":60},
+		{"id":"a938747060378e6c","type":"text","text":"v.0.2","x":-100,"y":300,"width":200,"height":60},
+		{"id":"a4078cbc3b0d52e2","type":"text","text":"Develop","x":-500,"y":20,"width":250,"height":60,"color":"5"},
+		{"id":"bff7f1e96397db15","type":"text","text":"","x":-500,"y":120,"width":250,"height":420},
+		{"id":"f237ab25b065bbcd","type":"text","text":"inital commit","x":-480,"y":150,"width":220,"height":60},
+		{"id":"e507789dbbffb170","type":"text","text":"Внесли изменения","x":-480,"y":240,"width":220,"height":60},
+		{"id":"fe25507c3014facb","type":"text","text":"v.0.1","x":-480,"y":330,"width":220,"height":60},
+		{"id":"946515aa909207a0","type":"text","text":"внесли изм.","x":-480,"y":420,"width":220,"height":60},
+		{"id":"fd829b81bcb13125","type":"text","text":"inital commit","x":-100,"y":120,"width":200,"height":60},
+		{"id":"3ed3d19be9756617","x":-960,"y":370,"width":250,"height":60,"type":"text","text":"Слава Моско"}
+	],
+	"edges":[
+		{"id":"19a11b52f7a1e07e","fromNode":"fd829b81bcb13125","fromSide":"bottom","toNode":"691f41d9e67a1dd9","toSide":"top"},
+		{"id":"a1fd54d0d9c79aa8","fromNode":"fd829b81bcb13125","fromSide":"bottom","toNode":"691f41d9e67a1dd9","toSide":"top"},
+		{"id":"9853583606a39662","fromNode":"fd829b81bcb13125","fromSide":"bottom","toNode":"691f41d9e67a1dd9","toSide":"top"},
+		{"id":"26d9a26784c772fa","fromNode":"fd829b81bcb13125","fromSide":"bottom","toNode":"691f41d9e67a1dd9","toSide":"top"},
+		{"id":"f1172eb9894077a2","fromNode":"fd829b81bcb13125","fromSide":"bottom","toNode":"691f41d9e67a1dd9","toSide":"top"},
+		{"id":"0a8991beff520bef","fromNode":"fd829b81bcb13125","fromSide":"bottom","toNode":"691f41d9e67a1dd9","toSide":"top"},
+		{"id":"52fffc3a048752a1","fromNode":"fd829b81bcb13125","fromSide":"bottom","toNode":"691f41d9e67a1dd9","toSide":"top"},
+		{"id":"71bb28eec08ce906","fromNode":"946515aa909207a0","fromSide":"right","toNode":"a938747060378e6c","toSide":"left"},
+		{"id":"e9b04443d39d4d87","fromNode":"fe25507c3014facb","fromSide":"right","toNode":"691f41d9e67a1dd9","toSide":"left"},
+		{"id":"ecf08f2e4de3b6d7","fromNode":"e507789dbbffb170","fromSide":"right","toNode":"d1972cb62e9e8db1","toSide":"left"},
+		{"id":"0fe85817357c045a","fromNode":"f237ab25b065bbcd","fromSide":"right","toNode":"fd829b81bcb13125","toSide":"left"}
+	]
+}

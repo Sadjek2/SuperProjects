@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "321ceef5bb5ea9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "445420632d1ca2a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776a8d40cf7cf525",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Введение в специальность/Без названия.canvas",
+                "viewState": {
+                  "x": 58.75,
+                  "y": 198.24218750000003,
+                  "zoom": -0.5555555216471354
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd99f321a49c5549",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b2e9b230572edac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dd525f82be6a6c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dba5aacd61f96f84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ИзмерениеИнформации",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53ac5a02e7ac003a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "79349f9fbf2243b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bac207562a0eb95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565aa2bd0540bc86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Введение в специальность/Без названия.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2271fe0fb2833bb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Введение в специальность/Без названия.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d63cd2063b98a06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c356755b1e27c7d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Введение в специальность/Без названия.canvas"
+              }
+            }
+          },
+          {
+            "id": "835fc2b81fa4a031",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "776a8d40cf7cf525",
+  "lastOpenFiles": [
+    "Основы информационных технологий/Устройство компьютера/Базовое устройство компьютера (схема).md",
+    "Введение в специальность/Без названия.canvas",
+    "Введение в специальность/Без названия.md",
+    "Основы информационных технологий/Устройство компьютера/Операционная система.md",
+    "Основы информационных технологий/Устройство компьютера",
+    "Основы информационных технологий/Устройство компьютера/Шина pci e.md",
+    "Основы информационных технологий/Устройство компьютера/Процессор(CPU).md",
+    "Основы информационных технологий/Устройство компьютера/Видеокарта.md",
+    "Люди/Колмогоров Андрей Николаевич.md",
+    "Основы информационных технологий",
+    "Люди/Клод Шеннон Элвуд.md",
+    "Информатика/Измерение информации/Шенноновская энтропия.md",
+    "Информатика/Измерение информации/Колмогоровская сложность.md",
+    "Введение в специальность/IT - профессия.md",
+    "Введение в специальность/Гибкие методологии проектирования.md",
+    "Pasted image 20240918113210.jpg",
+    "Pasted image 20240918112946.jpg",
+    "Безымянная Kanban-доска.md",
+    "Без названия.canvas",
+    "Люди/Pasted image 20240918112912.jpg",
+    "Люди/Колмогоров Андрей Николаевич.jpg",
+    "Люди",
+    "Информатика/Измерение информации",
+    "Люди",
+    "Информатика/Люди.md",
+    "2024-09-18.md",
+    "Python/Без названия/Цикл for.md",
+    "Информатика",
+    "Python/Без названия",
+    "Python",
+    "Без названия.md",
+    "Введение в специальность",
+    "Введение в специальность.md"
+  ]
+}
