@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "708650066d9d20a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "04868651f693b595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22305eec74486006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Колмогоров, Андрей Николаевич.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0e711c07ad91ddc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Без названия/Pasted image 20240918111336.png"
+              }
+            }
+          },
+          {
+            "id": "0363f27b72f94e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "комп/базовое устройство компьютера.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cdaa48d082f861d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "информатика/Колмогоровская сложность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad4f3bd69aa0305f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fda98120588e9f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d948e504bc6ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e70868f860f94a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4af53397e8a736fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "728421c5128e8cfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "142050b0e129de2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fb5ff51228ee9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e58dfe9710c175",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fbf2d2fa3978dee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6904964f7d89f2a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9be8668f5547b418",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ad4f3bd69aa0305f",
+  "lastOpenFiles": [
+    "информатика/Колмогоровская сложность.md",
+    "Без названия.md",
+    "информатика",
+    "Колмогоров, Андрей Николаевич.md",
+    "гибкие методологии.md",
+    "информатика/Шеннон, Клод.md",
+    "комп/процессор (CPU).md",
+    "комп/базовое устройство компьютера.md",
+    "комп",
+    "Без названия/Pasted image 20240919110355.png",
+    "Без названия",
+    "Без названия/Pasted image 20240919110209.png",
+    "Без названия/Pasted image 20240919110239.png",
+    "Без названия/Pasted image 20240918112139.png",
+    "Без названия/Pasted image 20240918111336.png",
+    "python/основы языка/Цикл for.md",
+    "python/ИТ-профессии.md",
+    "python/основы языка",
+    "python",
+    "python.md",
+    "2. Data Scientist,.md",
+    "Без названия 3",
+    "Без названия 2",
+    "7. Тестировщик,",
+    "3. Product Manager,",
+    "4. Project Manager,"
+  ]
+}
