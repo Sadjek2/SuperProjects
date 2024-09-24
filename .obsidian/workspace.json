@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7a06d729eee660ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc19a7ad03799510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa07f840b2452abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информационные технологии/Устройство компьютера/Базовое устройство ПК.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8defb0d206f79043",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1afe01b4473d6304",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8cb7762aa7ecf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa7ae95d77c7858",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "024497251285b95a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Колмогоров_Андрей_Николаевич",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7c3855a77afd728",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "353f51596e5ee9db",
+    "type": "split",
+    "children": [
+      {
+        "id": "adad93eed67d6a98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6258a41d4041bf57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Информационные технологии/Устройство компьютера/Базовое устройство ПК.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4e24550e4de0ad5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Информационные технологии/Устройство компьютера/Базовое устройство ПК.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03359eef7e3b4ff7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3c53c814d1c4fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Информационные технологии/Устройство компьютера/Базовое устройство ПК.md"
+              }
+            }
+          },
+          {
+            "id": "355baea42025007b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Создать новую доску": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "aa07f840b2452abc",
+  "lastOpenFiles": [
+    "Безымянная Kanban-доска.md",
+    "Люди/Колмогоров_Андрей_Николаевич.md",
+    "Люди/Клод_Э́лвуд_Ше́ннон.md",
+    "Информационные технологии/Устройство компьютера/Материнская плата (mother board).md",
+    "Информационные технологии/Устройство компьютера/CPU (процессор).md",
+    "Информационные технологии/Устройство компьютера/HDD (хранилище).md",
+    "Информационные технологии/Устройство компьютера/RAM (оперативная память).md",
+    "Информационные технологии/Устройство компьютера/SSD (хранилище).md",
+    "Введение в специальность/Схема взаимодействия в Git.canvas",
+    "Введение в специальность/GIT.md",
+    "Информационные технологии/Устройство компьютера/Без названия.md",
+    "Информационные технологии/Устройство компьютера/Базовое устройство ПК.md",
+    "Введение в специальность/Без названия/Без названия.md",
+    "Введение в специальность/Без названия",
+    "Информатика/Колмогоровская_сложность.md",
+    "ИТ/ИТ-профессии.md",
+    "smthng.png",
+    "Диаграмма без названия.drawio",
+    "Введение в специальность/Без названия/Цикл (for).md",
+    "Информационные технологии/Устройство компьютера",
+    "Информационные технологии/Устройство компьютера.md",
+    "Без названия.md",
+    "Информационные технологии",
+    "Информатика/Шенноновская_энтропия.md",
+    "Введение в специальность/Без названия/Гибкие методологии проектирования.md",
+    "Untitled.md",
+    "Люди",
+    "2024-09-18.md",
+    "ПК.md",
+    "Untitled.canvas",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Untitled 1.canvas",
+    "Информатика",
+    "Untitled/Untitled.md",
+    "Введение в специальность",
+    "ИТ",
+    "Untitled 1",
+    "Untitled 2"
+  ]
+}
