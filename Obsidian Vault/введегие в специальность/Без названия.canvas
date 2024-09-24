@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"9343c70f36902524","x":-545,"y":-160,"width":170,"height":60,"type":"text","text":"install commit"},
+		{"id":"701100951877091d","x":-548,"y":-60,"width":173,"height":60,"type":"text","text":"внес изм."},
+		{"id":"f766a9234a0a1c7e","x":-200,"y":10,"width":250,"height":60,"type":"text","text":"внесли изм."},
+		{"id":"a42039cc8ae03716","x":-198,"y":100,"width":250,"height":60,"type":"text","text":"v 0.1"},
+		{"id":"4cd7114b1fe6d9fb","x":-200,"y":180,"width":250,"height":60,"type":"text","text":"внесли изм."},
+		{"id":"e2b16603bda8c051","x":-200,"y":-85,"width":250,"height":60,"type":"text","text":"install commit"},
+		{"id":"c0888945fce8d3a5","x":137,"y":180,"width":250,"height":60,"type":"text","text":"v 0.2"},
+		{"id":"5f332abd01ac772f","x":137,"y":40,"width":250,"height":60,"type":"text","text":"v 0.1"},
+		{"id":"0f142f932c15f8f2","x":137,"y":-90,"width":250,"height":60,"type":"text","text":"install commit"},
+		{"id":"ba920751cbad1151","x":-573,"y":180,"width":176,"height":51,"type":"text","text":"v 0.1"},
+		{"id":"3136bcf91a6bc7fb","x":-573,"y":260,"width":182,"height":52,"type":"text","text":"внес измен."},
+		{"id":"899da92e47b442ef","x":191,"y":-160,"width":143,"height":50,"color":"2","type":"text","text":"ветка main"},
+		{"id":"43742bd708034c73","x":-545,"y":110,"width":112,"height":50,"color":"3","type":"text","text":"хз кто"},
+		{"id":"734ec4f81a7822ee","x":-524,"y":-255,"width":127,"height":50,"color":"6","type":"text","text":"nekit"},
+		{"id":"291b8e0b1f30149f","x":-144,"y":-180,"width":139,"height":50,"color":"1","type":"text","text":"Develop"}
+	],
+	"edges":[
+		{"id":"81fdf7db3ddb00c0","fromNode":"e2b16603bda8c051","fromSide":"bottom","toNode":"f766a9234a0a1c7e","toSide":"top"},
+		{"id":"627553301de15ee3","fromNode":"e2b16603bda8c051","fromSide":"bottom","toNode":"f766a9234a0a1c7e","toSide":"top"},
+		{"id":"0390459bfe6bc305","fromNode":"e2b16603bda8c051","fromSide":"bottom","toNode":"f766a9234a0a1c7e","toSide":"top"},
+		{"id":"72663efee66cf3c3","fromNode":"f766a9234a0a1c7e","fromSide":"bottom","toNode":"a42039cc8ae03716","toSide":"top"},
+		{"id":"84ec2af41ac5840c","fromNode":"a42039cc8ae03716","fromSide":"bottom","toNode":"4cd7114b1fe6d9fb","toSide":"top"},
+		{"id":"3522f0919daa3730","fromNode":"0f142f932c15f8f2","fromSide":"bottom","toNode":"5f332abd01ac772f","toSide":"top"},
+		{"id":"cf17004886e6a833","fromNode":"5f332abd01ac772f","fromSide":"bottom","toNode":"c0888945fce8d3a5","toSide":"top"},
+		{"id":"281a9357bb6cf97f","fromNode":"4cd7114b1fe6d9fb","fromSide":"right","toNode":"c0888945fce8d3a5","toSide":"left"},
+		{"id":"bc173cbb6a1c68b6","fromNode":"f766a9234a0a1c7e","fromSide":"right","toNode":"5f332abd01ac772f","toSide":"left"},
+		{"id":"4f38c4ad40bd89f4","fromNode":"5f332abd01ac772f","fromSide":"left","toNode":"a42039cc8ae03716","toSide":"right"},
+		{"id":"e9e89093ab788dfa","fromNode":"e2b16603bda8c051","fromSide":"left","toNode":"9343c70f36902524","toSide":"right"},
+		{"id":"fa1aea0cc1d7273f","fromNode":"701100951877091d","fromSide":"right","toNode":"f766a9234a0a1c7e","toSide":"left"},
+		{"id":"a617f3744d09493b","fromNode":"ba920751cbad1151","fromSide":"bottom","toNode":"3136bcf91a6bc7fb","toSide":"top"},
+		{"id":"82ddfd297a1af09d","fromNode":"a42039cc8ae03716","fromSide":"left","toNode":"ba920751cbad1151","toSide":"right"},
+		{"id":"83b6e88e7c6e18e2","fromNode":"3136bcf91a6bc7fb","fromSide":"right","toNode":"4cd7114b1fe6d9fb","toSide":"left"}
+	]
+}
