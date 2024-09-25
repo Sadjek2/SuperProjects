@@ -1,27 +1,19 @@
 {
   "main": {
-    "id": "eaf3a2a9bd698050",
+    "id": "abfdb1499c8daba7",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "c27d77bd96d7049e",
+        "id": "f8f441d4348272bd",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f6423e776ffa08",
-=======
-        "id": "b2d826dccba85d9f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31e2ff4d2ec34e30",
->>>>>>> Stashed changes
+            "id": "0b97fe1555621490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "основы програмирование/принцип работы циклов while и for.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b7e8a04fdd0cb1e",
+    "id": "f3e17d47b0e25a70",
     "type": "split",
     "children": [
       {
-        "id": "f4bbddb767c378c5",
+        "id": "443785d89d247ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "faddc44602b5f743",
+            "id": "194916b3141aedc9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +43,12 @@
             }
           },
           {
-            "id": "a3d19f9d21cf9e70",
+            "id": "a5665a39b70dc660",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python_циклы",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +58,7 @@
             }
           },
           {
-            "id": "bfd7e829637ebb0d",
+            "id": "a4326e97c6628228",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "dfa33d9ab4a146ad",
+    "id": "543c0c7f0624c067",
     "type": "split",
     "children": [
       {
-        "id": "66d879816896b79b",
+        "id": "b752c53a388cb2b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f75dc3e7e018df66",
+            "id": "e34a773382784e7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "основы програмирование/принцип работы циклов while и for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +97,19 @@
             }
           },
           {
-            "id": "57b9b1108423b3fe",
+            "id": "9104946de300c25a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "основы програмирование/принцип работы циклов while и for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "233c504ba369dad7",
+            "id": "7c83b1c429b0e166",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,37 +120,29 @@
             }
           },
           {
-            "id": "d78f04c12320d99f",
+            "id": "539e3c1dd7acf38c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "основы програмирование/принцип работы циклов while и for.md"
               }
             }
           },
           {
-            "id": "3166bc70633aca8a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "30fe4ca7640125e5",
+            "id": "fc64ff19dad07805",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,69 +152,15 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Создать новую доску": false
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "c3f6423e776ffa08",
+  "active": "194916b3141aedc9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "SmeshaniStasDmitriev.zip",
-    "основы програмирование/принцип работы циклов while и for.md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Шина_расширения_(Expansion_Bus).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Центральный_процессор_(ЦП).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Устройства_хранения_данных.md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Северный_мост_(Northbridge).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Оперативная_память_(ОЗУ).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Материнская_плата_(Motherboard).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Внешняя_память_(ВЗУ).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Видеокарта_(Graphics_Card).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм/Ввод-вывод_(ВВ).md",
-    "чя/принципиальная схема взаимодействия компонентов эбм.md",
-    "чя/принципиальная схема взаимодействия компонентов эбм",
-    "чя",
-    "картинки/Диаграмма без названия.drawio.svg",
-    "картинки/1473672773598783118.jpg",
-    "картинки",
-    "информатика/Шеннон энтропия.md",
-    "информатика/Колимогоровская сложность.md",
-    "информатика/биография колмогова.md",
-    "информатика",
-    "интернет - мартетинг/роботы.md",
-=======
-  "active": "31e2ff4d2ec34e30",
-  "lastOpenFiles": [
-    "README.md",
-    "основы програмирование/принцип работы циклов while и for.md",
-    "пвпавпвпап.md",
-    "lol что это.md",
-    "xz.md",
-    "введегие в специальность/IT-профессии.md",
-    "введегие в специальность/Гибкие методологии проектирование.md",
-    "введегие в специальность/Без названия.canvas",
-    "введение в python/основы языка/Занятие 4. Цикл for.md",
-    "введение в python/конбан и что это.md",
-    "интернет - мартетинг/роботы.md",
-    "информатика/Шеннон энтропия.md",
-    "информатика/Колимогоровская сложность.md",
-    "информатика/биография колмогова.md",
->>>>>>> Stashed changes
-    "интернет - мартетинг/Без названия.md",
-    "интернет - мартетинг",
-    "введение в python/основы языка/Занятие 4. Цикл for.md",
-    "введение в python/основы языка",
-    "введение в python/конбан и что это.md",
-    "введение в python",
-    "введегие в специальность/Гибкие методологии проектирование.md",
-    "введегие в специальность/Без названия.canvas",
-    "введегие в специальность/IT-профессии.md",
-    "введегие в специальность",
-    "zozat_amerika/xz/z.py",
-    "zozat_amerika/Без названия 1.md",
-    "zozat_amerika/Без названия.md",
-    "zozat_amerika/Без названия 3.md",
-    "zozat_amerika/Без названия 2.md"
+    "Основы информационных технологий/xlam/git.png",
+    "Основы информационных технологий/работа с git.md",
+    "Основы информационных технологий/xlam",
+    "Основы информационных технологий"
   ]
 }
