@@ -57,14 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "основы информационных технологий/базовая схема пк.md",
+                "file": "основы информационных технологий/процессор (cpu).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "312918bda0c680c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "дз 260924.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "основы информационных технологий/базовая схема пк.md",
+                "file": "дз 260924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "основы информационных технологий/базовая схема пк.md",
+                "file": "дз 260924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "основы информационных технологий/базовая схема пк.md"
+                "file": "дз 260924.md"
               }
             }
           },
@@ -196,14 +208,17 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-kanban:Создать новую доску": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ac83492a6bb6f414",
+  "active": "312918bda0c680c8",
   "lastOpenFiles": [
+    "Без названия 4",
     "основы информационных технологий/процессор (cpu).md",
+    "дз 260924.md",
+    "основы информационных технологий/Без названия.md",
     "основы информационных технологий/базовая схема пк.md",
+    "Python/Списки.md",
     "Без названия/ИТ-профессии.md",
     "УВАЖАЕМОМУ ДАНИЛУ ЕВГЕНЬЕВИЧУ.md",
     "Без названия 3",
