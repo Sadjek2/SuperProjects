@@ -1,35 +1,44 @@
 import random
 
-#список слов на тему природа
-nature_words = ['лесопарк', 'горы', 'озеро', 'пещера', 'водопады', 'ландшафт', 'природный', 'речной', 'лесной', 'гористый', 'каменист', 'деревня', 'птичник', 'рыболов', 'экосистема']
-#случайно выбранное слово из списка nature_words
-selected_word = random.choice(nature_words)
-unique_letters = set(selected_word)
-#количество попыток (жизней) для отгадывания слова, исходя из кол-ва
-#уникальных букв в слове
-attemtps = len(unique_letters)
-guessed_letters = ["_"] * len(selected_word)
+#выбор случайного слова из списка (list_of_words) и
+#возвращение выбранного слова
+def select_random_word(list_of_words: list):
+    return random.choice(list_of_words)
 
-#print(selected_word, attemtps, unique_letters)
+#подсчёт уникальных символов в слове
+def count_unique_letters(word):
+    return len(set(word))
 
-def find_unique_letter(c, word):
+#пользовательский ввод - вводится строка и берётся первый символ,
+#если их больше
+def user_input():
+    return input("Введите букву")[:1]
+
+#подсчёт попыток 
+def count_of_attempts(attempts):
+    pass
+
+#нахождение букв (c) в слове (word) и
+#возвращение их индексов (indicies)
+def letter_indices(c: str, word: str):
+    #явная типизация данных (c: str, word: str)
     indices = []
-    index = word.find(c)
-    while index != -1:
-        indices.append(index)
-        index = word.find(c, index + 1)
+    #индекс буквы в слове
+    #по длине слова
+    for i in range(len(word)):
+        if word[i] == c: 
+            indices.append(indices)
     return indices
-
-for i in range(attemtps):
-    letter = input()[:1]
-    
-    if letter not in unique_letters:
-        attemtps -= 1
-        print("Осталось попыток:", attemtps)
-        print(guessed_letters)
-    elif letter in unique_letters:
         
-
+def find_letter_in_set(c: str, unique_letters_set: set):
+    if c in unique_letters_set:
+        return True
+    else:
+        return False
+    
+def replace_unguessed(indices: list, unguessed_list, c):
+    for i in zip(indices, unguessed_list):
+        unguessed_list[indices] = c
         
         
         
