@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в специальность/HTML и CSS.md",
+                "file": "Python/Функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Математика",
+                "query": "tag:#ключевое",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Введение в специальность/HTML и CSS.md",
+                "file": "Python/Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Введение в специальность/HTML и CSS.md",
+                "file": "Python/Функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Введение в специальность/HTML и CSS.md"
+                "file": "Python/Функции.md"
               }
             }
           },
@@ -157,8 +158,9 @@
   },
   "active": "52975f577ad8fb1d",
   "lastOpenFiles": [
-    "Введение в специальность/Гибкие методологии проектирования.md",
     "Введение в специальность/HTML и CSS.md",
+    "Python/Функции.md",
+    "Введение в специальность/Гибкие методологии проектирования.md",
     "Введение в специальность/Оформление программной документации.md",
     "Введение в специальность/ИТ - профессии.md",
     "Введение в специальность/Таблица.canvas",
@@ -166,7 +168,6 @@
     "Введение в специальность/Без названия",
     "абобус",
     "Python/Списки.md",
-    "Python/Без названия.md",
     "Python",
     "Без названия.md",
     "Основы информационных технологий/Устройство компьютера/Материнская плата.md",
