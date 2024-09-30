@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "362e4e7ede1f4da5",
+        "id": "f0b60e98372ce568",
         "type": "tabs",
         "children": [
           {
-            "id": "52975f577ad8fb1d",
+            "id": "26b84b3ea9feb9e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функции.md",
+                "file": "Основы информационных технологий/Дз.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a4068ec34a9c40f7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Функции.md",
+                "file": "Основы информационных технологий/Дз.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Функции.md",
+                "file": "Основы информационных технологий/Дз.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Функции.md"
+                "file": "Основы информационных технологий/Дз.md"
               }
             }
           },
@@ -156,15 +155,15 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "52975f577ad8fb1d",
+  "active": "26b84b3ea9feb9e3",
   "lastOpenFiles": [
     "Введение в специальность/HTML и CSS.md",
+    "Введение в специальность/Таблица.canvas",
     "Python/Функции.md",
     "Введение в специальность/Гибкие методологии проектирования.md",
     "Введение в специальность/Оформление программной документации.md",
     "Введение в специальность/ИТ - профессии.md",
-    "Введение в специальность/Таблица.canvas",
-    "Основы информационных технологий/Без названия.md",
+    "Основы информационных технологий/Дз.md",
     "Введение в специальность/Без названия",
     "абобус",
     "Python/Списки.md",
