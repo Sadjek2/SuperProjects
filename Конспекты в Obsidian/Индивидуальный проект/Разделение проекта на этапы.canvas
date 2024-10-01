@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8993d99f83719500","x":-500,"y":-60,"width":250,"height":60,"type":"text","text":"Этап А - 3 дня"},
+		{"id":"098eb2e16e014d12","x":-250,"y":-60,"width":250,"height":60,"type":"text","text":"Этап В - 5 дней"},
+		{"id":"f677c407adc2e64c","x":0,"y":-60,"width":250,"height":60,"type":"text","text":"Этап С - 10 дней"},
+		{"id":"e8584308268254af","x":250,"y":-60,"width":250,"height":60,"type":"text","text":"Этап D - 7 дней"},
+		{"id":"0e2363074dad3e1e","x":500,"y":-60,"width":250,"height":60,"type":"text","text":"Этап Е - 3 дня\nНачальный этап"}
+	],
+	"edges":[
+		{"id":"4bbcc93050bc5548","fromNode":"0e2363074dad3e1e","fromSide":"bottom","toNode":"098eb2e16e014d12","toSide":"bottom"}
+	]
+}

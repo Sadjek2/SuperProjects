@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/функции.md",
+                "file": "Введение в специальность/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/функции.md",
+                "file": "Введение в специальность/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/функции.md",
+                "file": "Введение в специальность/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/функции.md"
+                "file": "Введение в специальность/CSS.md"
               }
             }
           },
@@ -158,9 +157,14 @@
   },
   "active": "e856f1c59f0e2221",
   "lastOpenFiles": [
+    "Введение в специальность/HTML.md",
+    "Введение в специальность/CSS.md",
+    "Индивидуальный проект/Разделение проекта на этапы.canvas",
+    "Индивидуальный проект/План проекта.md",
+    "Без названия.md",
+    "Индивидуальный проект",
     "Python/функции.md",
     "Python/Списки.md",
-    "Введение в специальность/HTML  и CSS.md",
     "Введение в специальность/Без названия.canvas",
     "Введение в специальность/Оформление программной документации.md",
     "Основы информационных технологий/Без названия.md",
@@ -192,7 +196,6 @@
     "Информатика",
     "Python/Без названия",
     "Python",
-    "Без названия.md",
     "Введение в специальность",
     "Введение в специальность.md"
   ]
