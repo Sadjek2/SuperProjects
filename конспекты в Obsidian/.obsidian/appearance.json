@@ -1,5 +1,7 @@
 {
   "accentColor": "#000000",
-  "cssTheme": "",
-  "interfaceFontFamily": "Arial Black"
+  "cssTheme": "Wasp",
+  "interfaceFontFamily": "Arial Black",
+  "textFontFamily": "Arial Black",
+  "theme": "obsidian"
 }

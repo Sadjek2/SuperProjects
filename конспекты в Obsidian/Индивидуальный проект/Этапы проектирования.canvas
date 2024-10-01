@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1a935dceafa1e5e4","type":"text","text":"3 дня","x":-1420,"y":-1020,"width":100,"height":60},
+		{"id":"7e36c156846968e6","type":"text","text":"5 дней","x":-1300,"y":-1020,"width":120,"height":60},
+		{"id":"9bf2a0e187ba27af","type":"text","text":"10 дней","x":-1160,"y":-1020,"width":115,"height":60},
+		{"id":"33b4039f86f20e59","type":"text","text":"7 дней","x":-1020,"y":-1020,"width":120,"height":60},
+		{"id":"5de4158723e99c15","type":"text","text":"3 дня","x":-880,"y":-1020,"width":100,"height":60},
+		{"id":"2c45a45a30657e34","type":"text","text":"A","x":-1420,"y":-920,"width":100,"height":60},
+		{"id":"263792b1ef6071a9","type":"text","text":"B","x":-1300,"y":-920,"width":120,"height":60},
+		{"id":"58e11e86f3693376","type":"text","text":"С","x":-1160,"y":-920,"width":115,"height":60},
+		{"id":"cfa9b2028502dc0b","type":"text","text":"D","x":-1020,"y":-920,"width":120,"height":60},
+		{"id":"b338515dad869fd2","x":-880,"y":-920,"width":100,"height":60,"type":"text","text":"E"}
+	],
+	"edges":[
+		{"id":"089dd0a6cd96ab05","fromNode":"b338515dad869fd2","fromSide":"right","toNode":"263792b1ef6071a9","toSide":"bottom"}
+	]
+}
