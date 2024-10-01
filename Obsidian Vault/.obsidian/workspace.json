@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "e8e67c25f1ee6155",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bfe4c28321339e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ffe35e5df30f2d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "30c14c94f73bb026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интернет маркетинг/Яндекс метрика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a309fd009df0209c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика/Взаимодействие со списками в Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03c86bea09ac716c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика/Оформление программной документации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db9875ca43b748e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика/Взаимодействие со списками в Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8f8b12c5faa6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика/Индивидуальный проект.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a90a9e2c5a916870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cc17434b3917dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7acf7020ec953c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c7dc59f3179a12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be9b57d7e43fd0b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ВзаимодействиеСоСписками",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "673d3072f0627c13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "709baf5671dd0e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1797b0f6eb2b524a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d183df20547288",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Информатика/CSS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "880988bbaee8f84d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Информатика/CSS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "068ac45b40031d1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dffd183541beca91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Информатика/CSS.md"
+              }
+            }
+          },
+          {
+            "id": "a64f964e7e60094e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "a90a9e2c5a916870",
+  "lastOpenFiles": [
+    "Информатика/CSS.md",
+    "Информатика/Индивидуальный проект.md",
+    "Информатика/Взаимодействие со списками в Python.md",
+    "Интернет маркетинг/LTV.md",
+    "Информатика/Оформление программной документации.md",
+    "Информатика/Гибкие методологии проектирования.md",
+    "Информатика/Устройство компьютера.md",
+    "Интернет маркетинг/Яндекс метрика.md",
+    "Pasted image 20240919112106.png",
+    "Интернет маркетинг",
+    "Люди/Андрей Николаевич Колмогоров.md",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Информатика/Колмогоровская сложность.md",
+    "2024-09-19.md",
+    "Pasted image 20240919112018.png",
+    "Pasted image 20240919111954.png",
+    "Люди",
+    "Информатика",
+    "Без названия 3.canvas",
+    "Безымянная Kanban-доска.md",
+    "2024-09-18.md",
+    "Без названия 2.canvas",
+    "Цикл For.md",
+    "ИТ-профессии.md",
+    "2024-09-16.md"
+  ]
+}
