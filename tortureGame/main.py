@@ -1,51 +1,59 @@
-import game_logic
+import random
+
+class HangmanGame:
+    def __init__(self, word_list):
+        self.word_list = word_list
+        self.random_word = random.choice(word_list)
+        self.unique_letters = set(self.random_word)
+        self.attempts = len(self.unique_letters)
+        self.unguessed_list = ["_"] * len(self.random_word)
+        self.guessed_letters = set()
+
+    def user_input(self):
+        while True:
+            user_input = input("Введите букву: ").lower()
+            if len(user_input) != 1:
+                print("Пожалуйста, введите одну букву.")
+            elif not user_input.isalpha():
+                print("Пожалуйста, введите букву, а не число или специальный символ.")
+            elif user_input in self.guessed_letters:
+                print("Вы уже угадали эту букву. Попробуйте другую.")
+            else:
+                self.guessed_letters.add(user_input)
+                return user_input
+
+    def find_letter_in_word(self, letter):
+        return letter in self.random_word
+
+    def letter_indices(self, letter):
+        return [i for i, x in enumerate(self.random_word) if x == letter]
+
+    def update_unguessed_list(self, letter):
+        indices = self.letter_indices(letter)
+        for index in indices:
+            self.unguessed_list[index] = letter
+
+    def game_start(self):
+        print("Давайте сыграем в игру! Я загадал... Слово из", len(self.random_word), "букв!")
+        self.game_cycle()
+
+    def game_cycle(self):
+        while self.attempts > 0:
+            print("У вас осталось", self.attempts, "попыток.")
+            print(" ".join(self.unguessed_list))
+            user_letter = self.user_input()
+            if self.find_letter_in_word(user_letter):
+                print("Вы отгадали букву!")
+                self.update_unguessed_list(user_letter)
+                if "_" not in self.unguessed_list:
+                    print(" ".join(self.unguessed_list))
+                    print("Поздравляем! Вы выиграли!")
+                    return
+            else:
+                print("Вы ошиблись...")
+                self.attempts -= 1
+        print("У вас закончились попытки. Слово было:", self.random_word)
+
 import data
-
-#список слов, который задаётся в файле data.py
-list_of_words = data.nature_words
- 
-#случайно выбранное слово из списка 
-random_word = game_logic.select_random_word(list_of_words)
-
-#подсчёт неповторяющихся букв в случайно выбранном раннее слове
-set_of_unique_letters = set(random_word)
-
-#количество попыток из длины сета 
-attempts = game_logic.count_unique_letters(random_word)
-
-#буква, введённая пользователем
-p_letter = None
-
-unguessed_list = ["_"] * len(random_word)
-unguessed_string = "  ".join(unguessed_list)
-
-
-def game_start():
-    #глобальные переменные
-    global p_letter, attempts,  unguessed_list, unguessed_string
-
-    
-    print("Давайте сыграем в игру! Я загадал... Слово из", len(random_word), "букв!")
-    print("У вас осталось", attempts, "попыток.")  
-    
-    game_cycle() 
-
-def game_cycle():
-    #глобальные переменные
-    global p_letter, attempts, unguessed_list, unguessed_string
-    
-    while attempts != 0:
-        p_letter = game_logic.user_input()[:1]
-        letter_in_word = game_logic.find_letter_in_set(p_letter, random_word) 
-        
-        if letter_in_word:
-            print("Вы отгадали букву!")
-            indices = game_logic.letter_indices(p_letter, random_word)
-            unguessed_list = game_logic.replace_unguessed(unguessed_list)
-            print(" ".join(unguessed_list))
-        elif not letter_in_word:
-            print("Вы ошиблись...")
-            print(" ".join(unguessed_list))
-            attempts -= 1
-            
-game_start()
+game = HangmanGame(data.nature_words)
+game.game_start()
