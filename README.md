@@ -1,7 +1,7 @@
 <p align="center">
 :skull:  Welcome to My github :wave:
 <p align="center">
-<img src="https://github.com/hyuhyu09/psychic-giggle/blob/main/40a96f89e840d2fd1b0563f07a109b6f.gif" width="50%" height="50%"/>
+<img src="https://github.com/hyuhyu09/psychic-giggle/blob/main/xlam/40a96f89e840d2fd1b0563f07a109b6f.gif" width="50%" height="50%"/>
 
 На чём я работаю.
    <li>Python</a></li>

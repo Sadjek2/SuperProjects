@@ -1,165 +1,107 @@
-import logic
-import words
 import tkinter as tk
 from graphic import Graphic
+import random
+from words import get_random_word
 
 class Game:
     def __init__(self, root):
         self.root = root
-        self.category = None
-        self.word = None
-        self.attempts = 6
+        self.graphic = Graphic(root)
+        self.word = ""
         self.guessed_letters = []
-        self.language = "Русский"
-        self.graphic = Graphic(self)
+        self.attempts = 6
+        self.category = ""
+
         self.start_menu()
 
     def start_menu(self):
-        for widget in self.root.winfo_children():
-            widget.destroy()
-        if self.language == "English":
-            category_label = tk.Label(self.root, text="Choose a category:", font=("Helvetica", 24))
-        else:
-            category_label = tk.Label(self.root, text="Выберите категорию:", font=("Helvetica", 24))
-        category_label.pack()
-        categories = list(words.CATEGORIES.keys())
-        if self.language == "Русский":
-            categories = [category for category in categories if category.isalpha() and not category.isascii()]
-        elif self.language == "English":
-            categories = [category for category in categories if category.isascii()]
-        for category in categories:
-            category_button = tk.Button(self.root, text=category, command=lambda category=category: self.start_game(category))
-            category_button.pack()
-        if self.language == "English":
-            self.multiplayer_button = tk.Button(self.root, text="Multiplayer", command=self.start_multiplayer)
-        else:
-            self.multiplayer_button = tk.Button(self.root, text="Мультиплеер", command=self.start_multiplayer)
-        self.multiplayer_button.pack()
-        if self.language == "English":
-            self.settings_button = tk.Button(self.root, text="Settings", command=self.start_settings)
-        else:
-            self.settings_button = tk.Button(self.root, text="Настройки", command=self.start_settings)
-        self.settings_button.pack()
+        self.graphic.word_label.config(text="Добро пожаловать в игру!")
+        self.graphic.attempts_label.config(text="")
+        self.graphic.canvas.delete("all")
+        self.graphic.guess_button.pack_forget()
+        self.graphic.play_again_button.pack_forget()
+        self.graphic.guess_entry.pack_forget()
+        self.graphic.category_frame.pack_forget()
 
+        self.graphic.main_frame.pack(pady=20)
+
+        self.graphic.play_button.pack(pady=10)
+        self.graphic.exit_button.pack(pady=10)
+        self.graphic.exit_button.config(command=self.root.destroy)
+
+        self.graphic.play_button.config(command=self.category_menu)
+    def category_menu(self):
+        self.graphic.main_frame.pack_forget()
+        self.graphic.category_frame.pack(pady=20)
+
+        self.graphic.animals_button.config(command=lambda: self.start_game("animals"))
+        self.graphic.fruits_button.config(command=lambda: self.start_game("fruits"))
+        self.graphic.cities_button.config(command=lambda: self.start_game("cities"))
     def start_game(self, category):
-        for widget in self.root.winfo_children():
-            widget.destroy()
+        self.graphic.display_game_screen()
         self.category = category
-        self.word = words.get_random_word(category)
-        self.attempts = 6
+        self.word = get_random_word(category)
         self.guessed_letters = []
-        self.graphic.word_label = tk.Label(self.root, text="", font=("Helvetica", 24))
-        self.graphic.word_label.pack()
-        self.graphic.attempts_label = tk.Label(self.root, text="Осталось попыток: 6", font=("Helvetica", 18))
-        self.graphic.attempts_label.pack()
-        self.graphic.canvas = tk.Canvas(self.root, width=200, height=200)
-        self.graphic.canvas.pack()
-        self.graphic.guess_entry = tk.Entry(self.root, width=20)
-        self.graphic.guess_entry.pack()
-        self.graphic.guess_button = tk.Button(self.root, text="Guess", command=self.graphic.guess_letter)
-        self.graphic.guess_button.pack()
-        self.graphic.display_word(self.word, self.guessed_letters)
-
-    def start_multiplayer(self):
-        for widget in self.root.winfo_children():
-            widget.destroy()
-        if self.language == "English":
-            self.graphic.word_label = tk.Label(self.root, text="Player 1, enter a word:", font=("Helvetica", 24))
-        else:
-            self.graphic.word_label = tk.Label(self.root, text="Игрок 1, введите слово:", font=("Helvetica", 24))
-        self.graphic.word_label.pack()
-        self.graphic.guess_entry = tk.Entry(self.root, width=20)
-        self.graphic.guess_entry.pack()
-        self.graphic.guess_button = tk.Button(self.root, text="Guess", command=self.get_word)
-        self.graphic.guess_button.pack()
-
-    def get_word(self):
-        self.word = self.graphic.guess_entry.get()
-        self.graphic.word_label.config(text="")
-        self.graphic.guess_entry.delete(0, tk.END)
-        self.graphic.guess_button.config(command=self.graphic.guess_letter)
         self.attempts = 6
-        self.guessed_letters = []
-        self.graphic.attempts_label = tk.Label(self.root, text="Осталось попыток: 6", font=("Helvetica", 18))
-        self.graphic.attempts_label.pack()
-        self.graphic.canvas = tk.Canvas(self.root, width=200, height=200)
-        self.graphic.canvas.pack()
         self.graphic.display_word(self.word, self.guessed_letters)
-
-    def start_settings(self):
-        for widget in self.root.winfo_children():
-            widget.destroy()
-        if self.language == "English":
-            settings_label = tk.Label(self.root, text="Settings:", font=("Helvetica", 24))
-        else:
-            settings_label = tk.Label(self.root, text="Настройки:", font=("Helvetica", 24))
-        settings_label.pack()
-        if self.language == "English":
-            language_button = tk.Button(self.root, text="Language: English", command=self.change_language)
-        else:
-            language_button = tk.Button(self.root, text="Язык: Русский", command=self.change_language)
-        language_button.pack()
-        if self.language == "English":
-            self.back_button = tk.Button(self.root, text="Back", command=self.start_menu)
-        else:
-            self.back_button = tk.Button(self.root, text="Назад", command=self.start_menu)
-        self.back_button.pack()
-
-    def change_language(self):
-        if self.language == "English":
-            self.language = "Русский"
-        else:
-            self.language = "English"
-        self.start_settings()
-
-    def guess_letter(self, letter):
-        if logic.is_valid_guess(letter, self.word, self.guessed_letters):
-            self.guessed_letters.append(letter)
-            self.graphic.display_word(self.word, self.guessed_letters)
-            if logic.has_won(self.word, self.guessed_letters):
-                self.win()
-            else:
-                self.attempts -= 1
-                self.graphic.attempts_label.config(text="Осталось попыток: " + str(self.attempts))
-                if self.attempts == 0:
-                    self.lose()
-        self.graphic.guess_entry.delete(0, tk.END)
-
-    def win(self):
-        for widget in self.root.winfo_children():
-            widget.destroy()
-        if self.language == "English":
-            win_label = tk.Label(self.root, text="Congratulations, you won!", font=("Helvetica", 24))
-        else:
-            win_label = tk.Label(self.root, text="Поздравляем, вы выиграли!", font=("Helvetica", 24))
-        win_label.pack()
-        if self.language == "English":
-            self.back_button = tk.Button(self.root, text="Back", command=self.start_menu)
-        else:
-            self.back_button = tk.Button(self.root, text="Назад", command=self.start_menu)
-        self.back_button.pack()
-
-    def lose(self):
-        for widget in self.root.winfo_children():
-            widget.destroy()
-        if self.language == "English":
-            lose_label = tk.Label(self.root, text="Sorry, you lost. The word was " + self.word, font=("Helvetica", 24))
-        else:
-            lose_label = tk.Label(self.root, text="Извините, вы проиграли. Слово было " + self.word, font=("Helvetica", 24))
-        lose_label.pack()
-        if self.language == "English":
-            self.back_button = tk.Button(self.root, text="Back", command=self.start_menu)
-        else:
-            self.back_button = tk.Button(self.root, text="Назад", command=self.start_menu)
-        self.back_button.pack()
-
-class Graphic:
-    def __init__(self, game):
-        self.game = game
-
-    def display_word(self, word, guessed_letters):
-        self.game.graphic.word_label.config(text=" ".join([letter if letter in guessed_letters else "_" for letter in word]))
+        self.graphic.attempts_label.config(text="Осталось попыток: " + str(self.attempts))
+        self.graphic.canvas.delete("all")
+        self.graphic.guess_button.config(state="normal")
+        self.graphic.guess_button.config(command=self.guess_letter)
+        self.graphic.guess_entry.pack()
+        self.graphic.guess_button.pack()
 
     def guess_letter(self):
-        letter = self.game.graphic.guess_entry.get()
-        self.game.guess_letter(letter)
+        letter = self.graphic.guess_entry.get()
+        self.graphic.guess_entry.delete(0, tk.END)
+        if letter in self.word:
+            self.guessed_letters.append(letter)
+            self.graphic.display_word(self.word, self.guessed_letters)
+            if set(self.word) == set(self.guessed_letters):
+                self.graphic.word_label.config(text="Вы выиграли! Слово было: " + self.word)
+                self.graphic.guess_button.config(state="disabled")
+                self.graphic.play_again_button.pack()
+                self.graphic.play_again_button.config(command=self.play_again)
+        else:
+            self.attempts -= 1
+            self.graphic.attempts_label.config(text="Осталось попыток: " + str(self.attempts))
+            self.graphic.canvas.delete("all")
+            if self.attempts <= 6:
+                self.graphic.canvas.create_line(50, 150, 150, 150)  # основа
+            if self.attempts <= 5:
+                self.graphic.canvas.create_line(100, 150, 100, 50)  # столб
+            if self.attempts <= 4:
+                self.graphic.canvas.create_line(100, 50, 150, 50)  # перекладина
+            if self.attempts <= 3:
+                self.graphic.canvas.create_line(150, 50, 150, 70)  # веревка
+            if self.attempts <= 2:
+                self.graphic.canvas.create_oval(140, 70, 160, 90)  # голова
+            if self.attempts <= 1:
+                self.graphic.canvas.create_line(150, 90, 150, 120)  # туловище
+            if self.attempts == 0:
+                self.graphic.canvas.create_line(150, 100, 130, 110)  # левая рука
+                self.graphic.canvas.create_line(150, 100, 170, 110)  # правая рука
+                self.graphic.canvas.create_line(150, 120, 130, 130)  # левая нога
+                self.graphic.canvas.create_line(150, 120, 170, 130)  # правая нога
+            if self.attempts == 0:
+                self.graphic.word_label.config(text="Вы проиграли! Слово было: " + self.word)
+                self.graphic.guess_button.config(state="disabled")
+                self.graphic.play_again_button.pack()
+                self.graphic.play_again_button.config(command=self.play_again)
+
+    def play_again(self):
+        self.graphic.play_again_button.pack_forget()
+        self.graphic.guess_button.pack_forget()
+        self.graphic.guess_entry.pack_forget()
+        self.graphic.word_label.config(text="")
+        self.graphic.attempts_label.config(text="")
+        self.graphic.canvas.delete("all")
+        self.start_menu()
+
+    def run(self):
+        self.root.mainloop()
+
+if __name__ == "__main__":
+    root = tk.Tk()
+    game = Game(root)
+    game.run()
