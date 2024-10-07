@@ -12,7 +12,7 @@ def count_unique_letters(word):
 #пользовательский ввод - вводится строка и берётся первый символ,
 #если их больше
 def user_input():
-    return input("Введите букву")[:1]
+    return input("Введите букву: ")[:1]
 
 #подсчёт попыток 
 def count_of_attempts(attempts):
