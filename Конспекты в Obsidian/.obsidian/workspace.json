@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "Введение в специальность/Git.md",
+=======
                 "file": "Введение в специальность/Оформление программной документации.md",
+>>>>>>> origin/torture
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +73,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 343.5
+=======
     "width": 343.5,
     "collapsed": true
+>>>>>>> origin/torture
   },
   "right": {
     "id": "2efe98d8ccb30086",
@@ -86,7 +94,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "Введение в специальность/Git.md",
+=======
                 "file": "Введение в специальность/Оформление программной документации.md",
+>>>>>>> origin/torture
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "Введение в специальность/Git.md",
+=======
                 "file": "Введение в специальность/Оформление программной документации.md",
+>>>>>>> origin/torture
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+                "file": "Введение в специальность/Git.md"
+=======
                 "file": "Введение в специальность/Оформление программной документации.md"
+>>>>>>> origin/torture
               }
             }
           },
@@ -151,8 +171,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 300
+=======
     "width": 300,
     "collapsed": true
+>>>>>>> origin/torture
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,6 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
+  "active": "325277b11bd9ab0d",
+  "lastOpenFiles": [
+    "Введение в специальность/ИТ-профессии.md",
+    "Введение в специальность/Git.md",
+=======
   "active": "b00b098852662ecc",
   "lastOpenFiles": [
     "Введение в специальность/Git.md",
@@ -174,6 +204,7 @@
     "Без названия 1.canvas",
     "Введение в специальность/Оформление программной документации.md",
     "Введение в специальность/ИТ-профессии.md",
+>>>>>>> origin/torture
     "Введение в специальность/Упрощённое взаимодействие в Git.canvas",
     "Основы Информационных Технологий/Устройство компьютера/Северный мост.md",
     "Основы Информационных Технологий/Устройство компьютера/Южный мост.md",
@@ -202,10 +233,18 @@
     "Основы Информационных Технологий/Устройство компьютера",
     "Основы Информационных Технологий",
     "Python/Без названия.md",
+<<<<<<< HEAD
+    "Без названия.md",
+=======
+>>>>>>> origin/torture
     "Python/Основы языка",
     "Python",
     "Введение в специальность/Безымянная Kanban-доска.md",
     "Без названия 1.md",
+<<<<<<< HEAD
+    "Без названия.canvas",
+=======
+>>>>>>> origin/torture
     "Введение в специальность"
   ]
 }
