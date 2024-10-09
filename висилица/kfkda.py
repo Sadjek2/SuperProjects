@@ -5,7 +5,7 @@ class Hangman:
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("Виселица")
-        self.word = choice(["план", "таити", "банан"])
+        self.word = choice(["Лес", "горы", "река", "озеро", "море", "степь", "дерево", "цветок", "трава", "лесной куст", "плод", "животное", "птица", "рыба", "зверь", "насекомое", "солнце", "луна", "ветер", "дождь", "снег"])
         self.guesses = 5
         self.missed = 0
         self.label = tk.Label(self.root, text="Угадайте слово!", font=("Arial", 24))
