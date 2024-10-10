@@ -41,7 +41,7 @@ def game_cycle():
         if letter_in_word:
             print("Вы отгадали букву!")
             indices = game_logic.letter_indices(p_letter, random_word)
-            unguessed_list = game_logic.replace_unguessed(unguessed_list)
+            unguessed_list = game_logic.replace_unguessed(indices, unguessed_list, p_letter)
             print(" ".join(unguessed_list))
         elif not letter_in_word:
             print("Вы ошиблись...")

@@ -1,3 +1,4 @@
+from operator import index
 import random
 
 #выбор случайного слова из списка (list_of_words) и
@@ -37,8 +38,9 @@ def find_letter_in_set(c: str, unique_letters_set: set):
         return False
     
 def replace_unguessed(indices: list, unguessed_list, c):
-    for i in zip(indices, unguessed_list):
-        unguessed_list[indices] = c
+    for i in len(indices):
+        index = indices[i]
+        unguessed_list[index] = c
         
         
         
