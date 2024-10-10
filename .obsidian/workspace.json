@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "d38ac918bf05393b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0848a37644a03a1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d77d91c793171d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Индивидуальный проект/Темы для индивидуального проекта РПО.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72e399438a3ffcdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Введение в специальность/HTML и CSS/СSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93c3adb764a3d47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2358c536fb28f921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea34e5b7ada5d3bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dc1399a6bb87ac4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c802363e57c0495a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1174080b3df691f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fdce6ce884037f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b4678026ea634c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Введение в специальность/HTML и CSS/СSS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2b733508d2f754f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Введение в специальность/HTML и CSS/СSS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a70a7f90885fa9e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb81cf06c2c81c6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Введение в специальность/HTML и CSS/СSS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "72e399438a3ffcdd",
+  "lastOpenFiles": [
+    "Введение в специальность/HTML и CSS/HTML.md",
+    "Введение в специальность/HTML и CSS/СSS.md",
+    "Индивидуальный проект/Темы для индивидуального проекта РПО.md",
+    "Введение в специальность",
+    "Индивидуальный проект/Без названия.md",
+    "Основы информационных технологий",
+    "Введение в специальность/HTML и CSS",
+    "Введение в специальность/Функции.md",
+    "Индивидуальный проект/Без названия",
+    "Индивидуальный проект",
+    "Функции",
+    "Без названия 1.md",
+    "заметки.md",
+    "Без названия 3",
+    "Без названия 2",
+    "Без названия 1"
+  ]
+}
