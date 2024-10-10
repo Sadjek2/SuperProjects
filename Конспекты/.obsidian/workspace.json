@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Списки.md",
+                "file": "Python/Pygame/Pygame - основы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Списки.md",
+                "file": "Python/Pygame/Pygame - основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Списки.md",
+                "file": "Python/Pygame/Pygame - основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Списки.md"
+                "file": "Python/Pygame/Pygame - основы.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "26b84b3ea9feb9e3",
   "lastOpenFiles": [
-    "Python/Списки (Определение).md",
     "Python/Списки.md",
+    "Python/Pygame/Pygame - основы.md",
+    "Python/Списки (Определение).md",
+    "Python/Pygame",
     "Диаграмма без названия.png",
     "i (1).webp",
     "Введение в специальность/HTML.md",
@@ -195,7 +197,6 @@
     "Люди/Клод Шеннон Элвуд.md",
     "Люди/Колмогоров Андрей Николаевич.md",
     "search.htm",
-    "Люди",
     "Без названия.canvas",
     "Без названия 2.md"
   ]
