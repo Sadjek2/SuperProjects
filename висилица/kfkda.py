@@ -26,7 +26,7 @@ class Hangman:
             self.update_word(answer)
         else:
             self.guesses -= 1
-            self.label.config(text="Неправильно! Осталось попыток: " + str(self.guesses))
+            self.label.config(text="Неправильно!Датч разочаровн в тебе. Осталось попыток: " + str(self.guesses))
             self.draw_hangman()
         self.entry.delete(0, tk.END)
 
