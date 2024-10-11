@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "90f44ad96d480ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6543a3ba1414de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f29b43a2022fe81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гибкие метадологии проектирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1434e1e74a5de23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a91a4750431667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88c0a4c631e1ef9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46623f0bd8d4b4e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c66cbbc11f7fa86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "903e62b3219a797d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1f2f1d73ffa1063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80698ec8899e1a6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Гибкие метадологии проектирования.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "052f9017d90d878d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Гибкие метадологии проектирования.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07fea004aa054edd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd57e560c3789114",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Гибкие метадологии проектирования.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "2f29b43a2022fe81",
+  "lastOpenFiles": [
+    "Гибкие метадологии проектирования.md"
+  ]
+}
