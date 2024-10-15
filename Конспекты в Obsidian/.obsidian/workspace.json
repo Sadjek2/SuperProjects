@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информатика/Системы счисления.md",
+                "file": "Python/Классы(Class).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Информатика/Системы счисления.md",
+                "file": "Python/Классы(Class).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Информатика/Системы счисления.md",
+                "file": "Python/Классы(Class).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Информатика/Системы счисления.md"
+                "file": "Python/Классы(Class).md"
               }
             }
           },
@@ -157,7 +157,18 @@
   },
   "active": "e856f1c59f0e2221",
   "lastOpenFiles": [
+    "Информатика/Комбинаторика..md",
+    "Python/Классы(Class).md",
+    "Информатика/Теория множеств..md",
     "Информатика/Системы счисления.md",
+    "Информатика/Мат.Логика..md",
+    "Python/PyGame/PyGame - основы.md",
+    "Python/Списки(определение).md",
+    "Python/PyGame",
+    "Python/PyGame.md",
+    "PyGame/P.md",
+    "PyGame",
+    "Python/Списки.md",
     "Без названия 1.canvas",
     "Основы информационных технологий/Устройство компьютера/Шина pci e.md",
     "Основы информационных технологий/Устройство компьютера/Процессор(CPU).md",
@@ -183,21 +194,12 @@
     "Введение в специальность/HTML.md",
     "Введение в специальность/CSS.md",
     "Безымянная Kanban-доска.md",
-    "Python/Без названия/Цикл for.md",
-    "Python/функции.md",
-    "Python/Списки.md",
     "Python/Без названия",
     "Python",
     "Pasted image 20240918113210.jpg",
     "Pasted image 20240918112946.jpg",
-    "Введение в специальность/Оформление программной документации.md",
-    "Введение в специальность",
     "Без названия.canvas",
-    "Без названия.md",
     "Люди/Pasted image 20240918112912.jpg",
-    "Люди/Колмогоров Андрей Николаевич.jpg",
-    "Информатика/Люди.md",
-    "2024-09-18.md",
-    "Введение в специальность.md"
+    "Люди/Колмогоров Андрей Николаевич.jpg"
   ]
 }
