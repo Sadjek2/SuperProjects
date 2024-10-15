@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aabb4f379dcd083b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Классы(Class).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Классы(Class).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Классы(Class).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Другие предметы/Физика 15.10.2024.md"
+                "file": "Python/Классы(Class).md"
               }
             }
           }
@@ -144,9 +159,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3a57a0bbe7f7185e",
+  "active": "aabb4f379dcd083b",
   "lastOpenFiles": [
     "Другие предметы/Общество 14.10.2024.md",
+    "Python/Классы(Class).md",
     "Другие предметы/Физика 15.10.2024.md",
     "Другие предметы/Обществознание.md",
     "Другие предметы/Общество 08.10.md",
@@ -189,7 +205,6 @@
     "Pasted image 20240918111233.png",
     "Люди",
     "Информатика",
-    "Введение в специальность/Без названия.md",
     "Введение в специальность",
     "Новая папка",
     "Python"
