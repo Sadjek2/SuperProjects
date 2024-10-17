@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "771a050b79852465",
+        "id": "06f63f60c0bd3686",
         "type": "tabs",
         "children": [
           {
-            "id": "e856f1c59f0e2221",
+            "id": "c8e3c508131e8a2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Классы(Class).md",
+                "file": "Введение в специальность/Turbo pascal.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Turbo pascal"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Классы(Class).md",
+                "file": "Введение в специальность/Turbo pascal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Turbo pascal"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Классы(Class).md",
+                "file": "Введение в специальность/Turbo pascal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Turbo pascal"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Классы(Class).md"
-              }
+                "file": "Введение в специальность/Turbo pascal.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Turbo pascal"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -155,10 +173,15 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "e856f1c59f0e2221",
+  "active": "c8e3c508131e8a2c",
   "lastOpenFiles": [
-    "Информатика/Комбинаторика..md",
+    "Основы информационных технологий/Накопители информации/Жесткие диски.md",
+    "Введение в специальность/Turbo pascal.md",
+    "Основы информационных технологий/Накопители информации/Накопители информации.md",
+    "Основы информационных технологий/Без названия.md",
+    "Основы информационных технологий/Накопители информации",
     "Python/Классы(Class).md",
+    "Информатика/Комбинаторика..md",
     "Информатика/Теория множеств..md",
     "Информатика/Системы счисления.md",
     "Информатика/Мат.Логика..md",
@@ -176,7 +199,6 @@
     "Основы информационных технологий/Устройство компьютера/Видеокарта.md",
     "Основы информационных технологий/Устройство компьютера/Базовое устройство компьютера (схема).md",
     "Основы информационных технологий/Устройство компьютера",
-    "Основы информационных технологий/Без названия.md",
     "Основы информационных технологий",
     "Люди/Колмогоров Андрей Николаевич.md",
     "Люди/Клод Шеннон Элвуд.md",
@@ -191,11 +213,7 @@
     "Введение в специальность/Гибкие методологии проектирования.md",
     "Введение в специальность/Без названия.canvas",
     "Введение в специальность/IT - профессия.md",
-    "Введение в специальность/HTML.md",
-    "Введение в специальность/CSS.md",
-    "Безымянная Kanban-доска.md",
     "Python/Без названия",
-    "Python",
     "Pasted image 20240918113210.jpg",
     "Pasted image 20240918112946.jpg",
     "Без названия.canvas",
