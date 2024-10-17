@@ -1,34 +1,94 @@
 {
   "main": {
-    "id": "d38ac918bf05393b",
+    "id": "bae5b4622b070715",
     "type": "split",
     "children": [
       {
-        "id": "0848a37644a03a1f",
+        "id": "524635842e8daa14",
         "type": "tabs",
         "children": [
           {
-            "id": "d3d77d91c793171d",
+            "id": "0291c52c4ce68e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индивидуальный проект/Темы для индивидуального проекта РПО.md",
+                "file": "Введение в специальность/Python/Списки (определение).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Списки (определение)"
             }
           },
           {
-            "id": "72e399438a3ffcdd",
+            "id": "934d06f52644f4eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в специальность/HTML и CSS/СSS.md",
+                "file": "Введение в специальность/Turbo Pascal/Введение.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Введение"
+            }
+          },
+          {
+            "id": "4f4e8b658a90eea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика РПО/Комбинаторика..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Комбинаторика."
+            }
+          },
+          {
+            "id": "2a0dea3b3818642a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика РПО/Теория множеств..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теория множеств."
+            }
+          },
+          {
+            "id": "f59480eeef406215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика РПО/Теория множеств..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теория множеств."
+            }
+          },
+          {
+            "id": "9cdbf0c355ffb209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-17"
             }
           }
         ],
@@ -38,44 +98,50 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93c3adb764a3d47b",
+    "id": "fd084f5d970f0de9",
     "type": "split",
     "children": [
       {
-        "id": "2358c536fb28f921",
+        "id": "56b2242d8c697bef",
         "type": "tabs",
         "children": [
           {
-            "id": "ea34e5b7ada5d3bd",
+            "id": "5b6ab7ed679e8c81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
-            "id": "7dc1399a6bb87ac4",
+            "id": "f5eebadcf6f75f75",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"ТЕХМАТ/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
-            "id": "c802363e57c0495a",
+            "id": "9211a115237c156e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,20 +151,20 @@
     "width": 300
   },
   "right": {
-    "id": "1174080b3df691f3",
+    "id": "96fbc74af19c461f",
     "type": "split",
     "children": [
       {
-        "id": "2fdce6ce884037f0",
+        "id": "5a90d0656b61844b",
         "type": "tabs",
         "children": [
           {
-            "id": "0b4678026ea634c7",
+            "id": "c5e5d81abe8953ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Введение в специальность/HTML и CSS/СSS.md",
+                "file": "Введение в специальность/Turbo Pascal/Введение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,40 +172,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Введение"
             }
           },
           {
-            "id": "d2b733508d2f754f",
+            "id": "813159666120809c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Введение в специальность/HTML и CSS/СSS.md",
+                "file": "Введение в специальность/Turbo Pascal/Введение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Введение"
             }
           },
           {
-            "id": "a70a7f90885fa9e9",
+            "id": "a7a0aee5641e3f0f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
-            "id": "bb81cf06c2c81c6c",
+            "id": "8641e2f00f60e514",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Введение в специальность/HTML и CSS/СSS.md"
-              }
+                "file": "Введение в специальность/Turbo Pascal/Введение.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Введение"
             }
           }
         ]
@@ -159,23 +233,37 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "72e399438a3ffcdd",
+  "active": "934d06f52644f4eb",
   "lastOpenFiles": [
-    "Введение в специальность/HTML и CSS/HTML.md",
-    "Введение в специальность/HTML и CSS/СSS.md",
-    "Индивидуальный проект/Темы для индивидуального проекта РПО.md",
-    "Введение в специальность",
-    "Индивидуальный проект/Без названия.md",
-    "Основы информационных технологий",
-    "Введение в специальность/HTML и CSS",
+    "Введение в специальность/Классы.md",
+    "Введение в специальность/Turbo Pascal/Введение.md",
+    "Основы информационных технологий/Накопители информации/HDD.md",
+    "Введение в специальность/Turbo Pascal",
+    "2024-10-17.md",
+    "Без названия.canvas",
+    "ТЕХМАТ/i (1).webp",
+    "Информатика РПО/Комбинаторика..md",
+    "ТЕХМАТ/Pasted image 20241001120153.png",
+    "Основы информационных технологий/Накопители информации/punch card.md",
+    "Основы информационных технологий/Накопители информации/Cassette.md",
+    "Основы информационных технологий/Накопители информации/SD-ROM.md",
+    "Основы информационных технологий/Накопители информации/Floppy.md",
+    "Основы информационных технологий/Накопители информации/Flesh.md",
+    "Основы информационных технологий/Накопители информации/SSD.md",
+    "ТЕХМАТ",
+    "Основы информационных технологий/Накопители информации",
     "Введение в специальность/Функции.md",
-    "Индивидуальный проект/Без названия",
-    "Индивидуальный проект",
-    "Функции",
-    "Без названия 1.md",
-    "заметки.md",
-    "Без названия 3",
-    "Без названия 2",
-    "Без названия 1"
+    "Информатика РПО/Теория множеств..md",
+    "Информатика РПО/Системы счисления.md",
+    "Информатика РПО/Мат. логика..md",
+    "Введение в специальность/Python/Pygame - основы.md",
+    "Введение в специальность/Python/Списки (определение).md",
+    "Введение в специальность/Задачи",
+    "Введение в специальность/Задачи/Списки.md",
+    "Введение в специальность/Python",
+    "Введение в специальность/HTML и CSS/CSS/СSS.md",
+    "Введение в специальность/HTML и CSS/HTML/HTML.md",
+    "Введение в специальность/HTML и CSS/HTML/Sсript.md",
+    "Информатика РПО"
   ]
 }
